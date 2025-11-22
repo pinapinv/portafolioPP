@@ -1,23 +1,17 @@
-# Ignore all
-*
-
-# Unignore all with extensions
-!*.*
-
-# Unignore all dirs
-!*/
-
-*.hi
-*.o
-*.exe
-
-.vscode/
-env/
-__pycache__/
+# Hugo
 public/
-*.lock
-build/
-library.txt
-members.txt
-library.json
-members.json
+resources/
+.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Archivos compilados
+*.exe
+*.o
