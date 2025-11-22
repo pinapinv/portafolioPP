@@ -4,7 +4,7 @@ title = 'Portafolio de Fernanda Flores'
 theme = 'PaperMod'
 
 [params]
-  description = "Mis prácticas y proyectos universitarios"
+  description = "Mis practicas y proyectos universitarios"
   author = "Fernanda Itzel Flores Valenzuela"
   ShowReadingTime = true
   ShowShareButtons = true
@@ -19,6 +19,6 @@ theme = 'PaperMod'
     weight = 1
 
   [[menu.main]]
-    name = "Prácticas"
+    name = "Practicas"
     url = "/practicas/"
     weight = 2
