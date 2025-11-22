@@ -1,8 +1,18 @@
+---
+title: "Practica 2 "
+date: 2025-11-13
+draft: false
+tags: ["POO"]
+---
+
+# Contenido de la práctica
+
                                          UABC
                             PARADIGMAS DE LA PROGRAMACIÓN
                                         PRÁCTICA #2
                             FERNANDA ITZEL FLORES VALENZUELA
-                                        Grupo 941
+                                          376160
+                                        Grupo 941 
 
 
 Introducción:

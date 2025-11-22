@@ -1,7 +1,18 @@
-                    Práctica 0
-            Paradigmas de la programación
-            Fernanda Itzel Flores Valenzuela
-                    sGrupo 914
+---
+title: "Practica 0"
+date: 2025-11-13
+draft: false
+tags: ["markdown"]
+---
+
+# Contenido de la práctica
+                    
+                                           UABC
+                            PARADIGMAS DE LA PROGRAMACIÓN
+                                        PRÁCTICA #0
+                            FERNANDA ITZEL FLORES VALENZUELA
+                                          376160
+                                        Grupo 941 
 
 
 

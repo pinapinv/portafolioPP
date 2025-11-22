@@ -1,0 +1,24 @@
+baseURL = 'https://pinapinv.github.io/portafolioPP/'
+languageCode = 'es-mx'
+title = 'Portafolio de Fernanda Flores'
+theme = 'PaperMod'
+
+[params]
+  description = "Paradigmas de Programacion"
+  author = "Fernanda Itzel Flores Valenzuela"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    name = "Prácticas"
+    url = "/practicas/"
+    weight = 2

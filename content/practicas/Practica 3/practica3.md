@@ -1,27 +1,22 @@
-                       UABC
-			PARADIGMAS DE LA PROGRAMACIÓN
-		      		GRUPO 941
-    		FERNANDA ITZEL FLORES VALENZUELA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
+title: "Practica 3 "
+date: 2025-11-13
+draft: false
+tags: ["Haskell"]
+---        
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                                           UABC
+                            PARADIGMAS DE LA PROGRAMACIÓN
+                                        PRÁCTICA #3
+                            FERNANDA ITZEL FLORES VALENZUELA
+                                          376160
+                                        Grupo 941 
 
 
 

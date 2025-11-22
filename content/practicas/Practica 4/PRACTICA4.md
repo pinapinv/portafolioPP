@@ -1,11 +1,18 @@
-                                Práctica 4 – El Paradigma Lógico
-
-                                   Paradigmas de la Programación
-
-                                             UABC 
-                                Fernanda Itzel Flores Valenzuela
-
-                                             376160
+---
+title: "Practica 4"
+date: 2025-11-13
+draft: false
+tags: ["Prolog"]
+---
+                               
+                               
+                               
+                                             UABC
+                            PARADIGMAS DE LA PROGRAMACIÓN
+                                        PRÁCTICA #4
+                            FERNANDA ITZEL FLORES VALENZUELA
+                                          376160
+                                        Grupo 941 
 
 ---
 
