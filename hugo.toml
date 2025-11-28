@@ -1,54 +1,29 @@
 baseURL = "https://pinapinv.github.io/portafolioPP/"
 languageCode = "es-mx"
-title = "Fernanda Flores"
-theme = "stack"
+title = "Fernanda Valenzuela"
+theme = "clarity"
 
+# --- PAGINACIÓN ---
 [pagination]
   pagerSize = 10
 
+# --- PARÁMETROS GENERALES ---
 [params]
-  mainSections = ["posts"]
   description = "Portafolio de prácticas de Paradigmas de Programación"
+  mainSections = ["posts"]
+  author = "Fernanda Valenzuela"
+  avatar = "/foto.jpg"          # asegúrate de tener /static/foto.jpg
+  year = "2025"
+  footer = "Estudiante de Ingeniería en Software"
 
-  [params.author]
-    name = "Fernanda Valenzuela"
-    email = "f376160@uabc.edu.mx"
+  # Contenido del post
+  toc = true
+  readTime = true
+  showDate = true
+  showTaxonomies = true
+  math = false
 
-  [params.footer]
-    since = 2025
-    customText = "Estudiante de Ingeniería en Software"
-
-  # --- SIDEBAR (LO QUE SÍ EXISTE EN STACK) ---
-  [params.sidebar]
-    emoji = "👩‍💻"
-    subtitle = "Portafolio de Prácticas"
-    avatar = "/foto.jpg"   # Asegúrate que esté en /static/foto.jpg
-
-  # --- CONFIG DE ARTÍCULOS ---
-  [params.article]
-    math = false
-    toc = true
-    readingTime = true
-
-    [params.article.license]
-      enabled = false
-
-  # --- COMENTARIOS (DESACTIVADOS) ---
-  [params.comments]
-    enabled = false
-
-  # --- WIDGETS (SOLO STRINGS, COMPATIBLE CON STACK) ---
-  [params.widgets]
-    homepage = ["search", "archives", "tag-cloud"]
-    page = ["toc"]
-
-  [params.widgets.archives]
-    limit = 5
-
-  [params.widgets.tagCloud]
-    limit = 20
-
-# --- MENÚ ---
+# --- MENU ---
 [menu]
 
   [[menu.main]]
@@ -69,7 +44,7 @@ theme = "stack"
     url = "/tags/"
     weight = 3
 
-# --- MARKDOWN ---
+# --- MARKDOWN / FORMATEO ---
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

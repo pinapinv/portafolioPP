@@ -1,4 +1,8 @@
 ---
-title: "Mis Prácticas"
-description: "Documentación de todas mis prácticas markdown"
+title: "Inicio"
+type: "page"
 ---
+
+# Bienvenida
+
+Aquí encontrarás mis prácticas de la materia **Paradigmas de Programación**.

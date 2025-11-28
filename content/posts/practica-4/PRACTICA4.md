@@ -1,24 +1,24 @@
 ---
-title: "Práctica 3: Haskell"
-description: "Instalación del entorno Haskell y creación de aplicación TODO con programación funcional pura"
-date: 2025-10-15
-image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800"
+title: "Práctica 4: Prolog"
+description: "Instalación del entorno SWI-Prolog, fundamentos del paradigma lógico, hechos, reglas, consultas, recursión, listas, operadores, predicados integrados y aplicaciones avanzadas."
+date: 2025-10-22
+image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200
 categories:
   - Programación
   - Paradigmas
 tags:
-  - haskell
-  - programacion-funcional
+  - prolog
+  - paradigma-logico
+  - hechos
+  - reglas
+  - consultas
   - recursion
-  - inmutabilidad
-  - stack
-  - ghc
-slug: practica-3
+  - listas
+  - swi-prolog
+slug: practica-4
 type: "post"
+
 ---
-
-
-
 
 
                                
