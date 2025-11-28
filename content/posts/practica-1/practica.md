@@ -1,8 +1,8 @@
 ---
 title: "Práctica 1: Elementos Básicos de los Lenguajes de Programación"
-description: "Identificación de elementos fundamentales: nombres, marcos de activación, bloques de alcance, administración de memoria, expresiones, comandos y control de secuencia en C"
+description: "Identificación de elementos fundamentales en C: nombres, marcos de activación, bloques de alcance, administración de memoria, expresiones y control de flujo"
 date: 2025-09-15
-image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800"
 categories:
   - Programación
   - Paradigmas
@@ -16,6 +16,7 @@ tags:
 slug: practica-1
 type: "post"
 ---
+
 
 # Contenido de la práctica
 

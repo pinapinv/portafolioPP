@@ -1,8 +1,8 @@
 ---
 title: "Práctica 3: Haskell"
-description: "Instalación del entorno Haskell y desarrollo de una aplicación TODO usando programación funcional pura, recursión e inmutabilidad"
+description: "Instalación del entorno Haskell y creación de aplicación TODO con programación funcional pura"
 date: 2025-10-15
-image: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800
+image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800"
 categories:
   - Programación
   - Paradigmas
@@ -16,6 +16,7 @@ tags:
 slug: practica-3
 type: "post"
 ---
+
                        
                        
                        

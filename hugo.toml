@@ -1,7 +1,7 @@
-baseURL = 'https://pinapinv.github.io/portafolioPP/'
-languageCode = 'es-mx'
-title = ' Fernanda Flores'
-theme = 'stack'
+baseURL = "https://pinapinv.github.io/portafolioPP/"
+languageCode = "es-mx"
+title = "Fernanda Flores"
+theme = "stack"
 
 [pagination]
   pagerSize = 10
@@ -9,70 +9,77 @@ theme = 'stack'
 [params]
   mainSections = ["posts"]
   description = "Portafolio de prácticas de Paradigmas de Programación"
-  
+
   [params.author]
     name = "Fernanda Valenzuela"
     email = "f376160@uabc.edu.mx"
-  
+
   [params.footer]
     since = 2025
     customText = "Estudiante de Ingeniería en Software"
-  
+
+  # --- SIDEBAR (LO QUE SÍ EXISTE EN STACK) ---
   [params.sidebar]
-  emoji = "👩‍💻"
-  subtitle = "Portafolio de Prácticas de Paradigmas"
+    emoji = "👩‍💻"
+    subtitle = "Portafolio de Prácticas"
+    avatar = "/foto.jpg"   # Asegúrate que esté en /static/foto.jpg
 
-
-  
+  # --- CONFIG DE ARTÍCULOS ---
   [params.article]
     math = false
     toc = true
     readingTime = true
-    
+
     [params.article.license]
       enabled = false
-  
+
+  # --- COMENTARIOS (DESACTIVADOS) ---
   [params.comments]
     enabled = false
-  
+
+  # --- WIDGETS (SOLO STRINGS, COMPATIBLE CON STACK) ---
   [params.widgets]
     homepage = ["search", "archives", "tag-cloud"]
     page = ["toc"]
-  
+
   [params.widgets.archives]
     limit = 5
-  
+
   [params.widgets.tagCloud]
     limit = 20
 
+# --- MENÚ ---
 [menu]
+
   [[menu.main]]
     identifier = "home"
     name = "🏠 Inicio"
     url = "/"
     weight = 1
-    
+
   [[menu.main]]
     identifier = "categories"
     name = "📂 Categorías"
     url = "/categories/"
-    weight = 3
-    
+    weight = 2
+
   [[menu.main]]
     identifier = "tags"
     name = "🏷️ Tags"
     url = "/tags/"
-    weight = 4
+    weight = 3
 
+# --- MARKDOWN ---
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-  
+
   [markup.highlight]
     noClasses = false
     lineNos = true
 
+# --- TAXONOMÍAS ---
 [taxonomies]
   category = "categories"
   tag = "tags"
