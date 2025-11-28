@@ -1,9 +1,22 @@
 ---
-title: "Practica 0"
-date: 2025-11-13
-draft: false
-tags: ["markdown"]
+title: "Práctica 0: Uso de Repositorios"
+description: "Introducción a Markdown, Git, GitHub, Hugo y GitHub Actions"
+date: 2025-09-01
+image: https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=800
+categories:
+  - Control de Versiones
+  - Documentación
+tags:
+  - markdown
+  - git
+  - github
+  - hugo
+  - github-actions
+slug: practica-0
+type: "post"
 ---
+
+# Tu contenido...
 
 # Contenido de la práctica
                     

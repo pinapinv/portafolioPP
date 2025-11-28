@@ -1,8 +1,21 @@
 ---
-title: "Practica 2 "
-date: 2025-11-13
-draft: false
-tags: ["POO"]
+title: "Práctica 2: Programación Orientada a Objetos"
+description: "Migración de sistema de biblioteca de C a Python aplicando conceptos de POO: clases, objetos, encapsulamiento, abstracción, herencia y polimorfismo"
+date: 2025-10-01
+image: https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800
+categories:
+  - Programación
+  - Paradigmas
+tags:
+  - python
+  - poo
+  - orientado-a-objetos
+  - clases
+  - herencia
+  - polimorfismo
+  - encapsulamiento
+slug: practica-2
+type: "post"
 ---
 
 # Contenido de la práctica

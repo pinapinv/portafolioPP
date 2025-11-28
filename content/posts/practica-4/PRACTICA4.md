@@ -1,9 +1,28 @@
 ---
-title: "Practica 4"
-date: 2025-11-13
-draft: false
-tags: ["Prolog"]
+title: "Práctica 4: Prolog"
+description: "Instalación del entorno SWI-Prolog, fundamentos del paradigma lógico, hechos, reglas, consultas, recursión, listas, operadores, predicados integrados y aplicaciones avanzadas."
+date: 2025-10-22
+image: https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200
+categories:
+  - Programación
+  - Paradigmas
+tags:
+  - prolog
+  - paradigma-logico
+  - hechos
+  - reglas
+  - consultas
+  - recursion
+  - listas
+  - swi-prolog
+slug: practica-4
+type: "post"
+
 ---
+
+
+
+
                                
                                
                                

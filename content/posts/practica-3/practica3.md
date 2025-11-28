@@ -1,9 +1,21 @@
 ---
-title: "Practica 3 "
-date: 2025-11-13
-draft: false
-tags: ["Haskell"]
----        
+title: "Práctica 3: Haskell"
+description: "Instalación del entorno Haskell y desarrollo de una aplicación TODO usando programación funcional pura, recursión e inmutabilidad"
+date: 2025-10-15
+image: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800
+categories:
+  - Programación
+  - Paradigmas
+tags:
+  - haskell
+  - programacion-funcional
+  - recursion
+  - inmutabilidad
+  - stack
+  - ghc
+slug: practica-3
+type: "post"
+---
                        
                        
                        
@@ -31,7 +43,7 @@ GHCup es el instalador universal para Haskell que gestiona GHC (Glasgow Haskell 
 En Windows:
 Ejecutar en PowerShell:
 powershellSet-ExecutionPolicy Bypass -Scope Process -Force;[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; try { Invoke-Command -ScriptBlock ([ScriptBlock]::Create((Invoke-WebRequest https://www.haskell.org/ghcup/sh/bootstrap-haskell.ps1 -UseBasicParsing))) -ArgumentList $true } catch { Write-Error $_ }
-2. Instalación de Herramientas Necesarias
+1. Instalación de Herramientas Necesarias
 Una vez instalado GHCup, instala las herramientas requeridas:
 bash# Instalar GHC (compilador de Haskell)
 ghcup install ghc recommended
